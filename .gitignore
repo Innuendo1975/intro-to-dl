@@ -4,7 +4,13 @@
 readonly
 __pycache__
 *.pyc
-
+*.h5
+*.meta
+*.index
+*.hdf5
+*.model
+weights*
+dz/
 # week3
 102flowers.tgz
 imagelabels.mat
